@@ -13,7 +13,7 @@ firewall-cmd --reload
 
 docker login  
 docker push wenneryu/linux_frps:v1
-`` 
+```
 
 # ref
 frp <https://github.com/fatedier/frp>
